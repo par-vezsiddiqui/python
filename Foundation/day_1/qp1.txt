@@ -1,0 +1,12 @@
+#  Question 1 - Write a plain-English algorithm for your morning routine, with at least one decision point (e.g., "if it's raining, carry an umbrella").
+
+Here is a clear, step-by-step solution for Question 1:
+
+1. Wake Up: Alarm rings at 7:00 AM; get out of bed.
+2. Hygiene: Brush teeth and wash face.
+3. Check the Weather: Look outside or check the weather forecast on your phone.
+4. Decision Point (Logic):
+    IF it is raining, carry an umbrella and wear a raincoat.
+    ELSE, grab a pair of sunglasses.
+5.       Breakfast: Eat a healthy breakfast and drink a glass of water.
+6.  Leave: Lock the front door and start the morning commute.
