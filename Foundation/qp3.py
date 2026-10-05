@@ -1,0 +1,1 @@
+# Question 3 - Break your code 3 different ways (as in Exercise 6) and note each error message. Bring this list to Session 2.
