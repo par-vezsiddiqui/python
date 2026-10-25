@@ -1,0 +1,23 @@
+# Git Branching and Merging
+
+This project demonstrates basic Git branching and merging.
+
+## Commands
+
+1. Create a branch:
+   `git switch -c feature`
+
+2. Make changes to `greeting.txt`.
+
+3. Commit changes:
+   `git add .`
+   `git commit -m "Update greeting"`
+
+4. Switch to main:
+   `git switch main`
+
+5. Merge the branch:
+   `git merge feature`
+
+## Conclusion
+Learned how to create, switch, and merge Git branches.
